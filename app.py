@@ -60,7 +60,7 @@ features = np.array([[
     int(TechSupport_Yes),
     int(StreamingTV_Yes),
     int(StreamingMovies_Yes)
-]])
+]], dtype=float)
 
 if st.button("Predict"):
     prediction = model.predict(features)[0]
