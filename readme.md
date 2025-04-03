@@ -41,10 +41,9 @@ The following metrics were used to evaluate model performance:
 ## 📊 Visualizations
 
 ### 🔹 Feature Importance
-![Feature Importance](assets/feature_importance.png)
-
+![Feature Importance](https://github.com/EduardTadevosyan/churn_model/blob/main/Images/feautre_importance.png)
 ### 🔹 Confusion Matrix
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](https://github.com/EduardTadevosyan/churn_model/blob/main/Images/confusion_matrix.png)
 
 ---
 
