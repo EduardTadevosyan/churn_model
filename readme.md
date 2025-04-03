@@ -1,4 +1,4 @@
-# Customer Churn Prediction with Machine Learning
+# Customer Churn Prediction with Machine Learning in Python
 
 This project focuses on building a machine learning model to predict customer churn for a telecommunications company. By identifying customers likely to leave, the model helps businesses take proactive steps to improve customer retention.
 
@@ -19,13 +19,15 @@ The goal was to:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Libraries Used
 
-- Python
-- Pandas, NumPy
-- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 - Streamlit
-- Matplotlib, Seaborn
+- Scikit-learn
+
 
 ---
 
